@@ -40,7 +40,7 @@
 
 | Project | Description (EN) | الوصف (AR) |
 |---|---|---|
-| 🌐 [**CargoSystem**](https://cargosystem.site) | Cargo management system, live in production. | نظام لإدارة الشحنات يعمل فعليًا على الإنترنت. |
+| 🌐 [**CargoSystem**](https://cargosystem.site) | Cargo management system, live in production. | موقع ويب لتاجير وحجز السيارات . |
 | 🏙️ **Smart City System** | Smart city management platform. | منصة لإدارة المدينة الذكية. |
 
 > ✏️ عدّل الوصف أو أضف رابط `smart-city-system` من مستودعك.
@@ -77,7 +77,7 @@
 <div align="center">
 
 [![Email](https://img.shields.io/badge/Email-6B9080?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zaidfanoun2@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-52796F?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-LINKEDIN-ID)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-52796F?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zaid fanoun)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=100&section=footer" width="100%" />
 
