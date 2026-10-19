@@ -55,7 +55,6 @@
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=zaidfanoun16&bg_color=00000000&color=6B9080&line=84A98C&point=A4C3B2&area=true&area_color=84A98C&hide_border=true" alt="Activity graph" width="100%" />
 
 </div>
 
