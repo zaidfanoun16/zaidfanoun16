@@ -69,7 +69,7 @@ I'm a fourth-year student and backend developer. I build APIs and real-world sys
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-6B9080?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zaidfanoun2@gmail.com)
+[![Email](https://img.shields.io/badge/Email-6B9080?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&to=zaidfanoun2@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-52796F?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zaid-fanoun-4b22a0371)
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=100&section=footer" width="100%" />
 
